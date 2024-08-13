@@ -7,7 +7,7 @@
 - 💬 Ask me about **Power BI, Excel, MySQL, Python, Statistics**
 
 - 📫 How to reach me **hemanthkrishna3994@gmail.com**
-- Portfolio **https://codebasics.io/portfolio/HEMANTH-S#home**
+- [My Portfolio](https://codebasics.io/portfolio/HEMANTH-S#home)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
