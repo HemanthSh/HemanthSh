@@ -4,9 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abc&label=Profile%20views&color=0e75b6&style=flat" alt="abc" /> </p>
 
 
-- 🌱 I’m currently learning **Python,Statistics**
-
-- 💬 Ask me about **Power BI, Excel, MySQL,Python**
+- 💬 Ask me about **Power BI, Excel, MySQL, Python, Statistics**
 
 - 📫 How to reach me **hemanthkrishna3994@gmail.com**
 
